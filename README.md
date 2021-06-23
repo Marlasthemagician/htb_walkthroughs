@@ -2,4 +2,4 @@
 Some walkthroughs of Hack the Box machines
 
 Forwardslash - retired  
-Remote - active, password encrypted with Admin password.  
+Remote - retired  
